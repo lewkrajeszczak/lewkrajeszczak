@@ -1,6 +1,6 @@
 # lewkrajeszcak
 <h1 align="center">Hi 👋, I'm Lew</h1>
-<h3 align="center">I' m student of 1st class in Technischools. I'm 14yo</h3>
+<h3 align="center">I' m student of 1st class in Technischools. I'm 15yo</h3>
 
 - 🔭 I’m currently working on **KasaBiedronki**
 
