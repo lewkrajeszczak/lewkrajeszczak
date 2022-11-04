@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Lew</h1>
 <h3 align="center">I' m student of 2nd class in Technischools. I'm 15yo</h3>
 
-- 🔭 I’m currently working on **KasaBiedronki**
+- 🔭 I’m currently working on **E-Grafik**
 
-- 🌱 I’m currently learning **sqlite**
+- 🌱 I’m currently learning **php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
