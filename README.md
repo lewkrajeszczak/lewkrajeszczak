@@ -1,11 +1,6 @@
 # lewkrajeszcak
 <h1 align="center">Hi 👋, I'm Lew</h1>
-<h3 align="center">I am a 18-year-old passionate programmer and I am constantly trying to develop my profession</h3>
-- 🔭 I’m currently working on **E-Grafik**
-
-- 🌱 I’m currently learning **JS, GIT and React**
-
-- 👨‍💻 All of my projects are available at [e-buda.eu](e-buda.eu)
+<h3 align="center">I am a 19-year-old passionate programmer and I am constantly trying to develop my profession</h3>
 
 - 📫 How to reach me **lewisku@icloud.com**
 
